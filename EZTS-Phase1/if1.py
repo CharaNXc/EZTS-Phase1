@@ -1,0 +1,9 @@
+age=100
+a=20
+b=30
+c=a+b
+if(age>18):
+    print("yes")
+    print(c)
+else:
+    print("no")

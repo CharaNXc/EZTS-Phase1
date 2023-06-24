@@ -1,0 +1,16 @@
+age1=2
+age2=5
+result1=age1+age2
+print(result1)
+result2=age1-age2
+print(result2)
+result3=age1*age2
+print(result3)
+result4=age1/age2
+print(result4)
+result5=age1//age2
+print(result5)
+result6=age1%age2
+print(result6)
+result7=age1**age2
+print(result7)

@@ -1,0 +1,1 @@
+print('{1}'.format('hello',20,40.5,'bye'))
