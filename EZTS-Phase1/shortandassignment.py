@@ -1,0 +1,13 @@
+age1=10
+age1+=20#age1=age1+20
+print(age1)#30
+age1+=50#age1=age1+50
+print(age1)#80
+age1-=40#age1=age1-40
+print(age1)#40
+age1*=100#age1=age1*100
+print(age1)#4000
+age1//=50#age1=age1/50
+print(age1)#80
+age1**=2#age1=age1**2
+print(age1)
